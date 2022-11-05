@@ -10,8 +10,6 @@ role: Undergraduates
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chongqing University of Posts and Telecommunications (CQUPT)
-    url: https://www.cqupt.edu.cn/
   - name: Brunel University London
     url: https://www.brunel.ac.uk/
 
@@ -24,15 +22,12 @@ interests:
   - Millimeter Wave Communication
   - Swarm Intelligence Algorithm
   - Wireless Body Area Network
-  - Blockchain Technology
+  - Multi-UAVs Relay Communication
 
 
 # Education to show in About widget
 education:
   courses:
-    - course: BEng in Communication Engineering
-      institution: Chongqing University of Posts and Telecommunications (CQUPT)
-      year: 2019-2023
     - course: BEng in Electronic and Communications Engineering
       institution: Brunel University London
       year: 2019-2023
@@ -79,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Yitao Li is a member of the radio wave propagation and access technology team of the Key Lab of Mobile Communication Technology of Chongqing University of Posts and Telecommunications. He participated in channel sounding and data processing of indoor millimeter-wave communication, which was funded by European Council H2020 and National Key R&D Project of China. Recently, he is studying algorithms related to the node location of wireless sensor networks in the Internet of Things and applying them to optimize the wireless body area network, as well as realizing the optimal relay communication mechanism for multi-UAVs based on Unscented Kalman Filter and Hybrid PSO algorithm.
+Yitao Li participated in channel sounding and data processing of indoor millimeter-wave communication, which was funded by European Council H2020. Recently, he is studying algorithms related to the node location of wireless sensor networks in the Internet of Things and applying them to optimize the wireless body area network, as well as realizing the optimal relay communication mechanism for multi-UAVs based on Unscented Kalman Filter and Hybrid PSO algorithm.
 
 <!-- In addition, he served as the student representative for CQUPT and Brunel, providing advice on teaching activities. -->
 
